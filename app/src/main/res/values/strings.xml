@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="drinks_recipe">Drinks Recipe</string>
+    <string name="by_name">By Name</string>
+    <string name="by_first_alphabet">By First Alphabet</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="favorite_recipes">Favorite Recipes</string>
+</resources>
